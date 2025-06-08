@@ -32,6 +32,7 @@ torch optim                  : 9.96ms
 ```
 
 **That's roughly 4x faster than NumPy for large matrices and 55x faster for smaller ones!**
+<sub><i>Tests were run on Intel(R) Xeon(R) CPU @ 2.00GHz</i></sub>
 
 ## How It Works
 
