@@ -1,4 +1,7 @@
 // matrix multiplication with mkl
+// Author: Dellano Samuel Fernandez
+// Date: 01/06/25
+
 #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
 #include <Python.h>
 #include <numpy/arrayobject.h>
