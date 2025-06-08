@@ -29,10 +29,11 @@ extreme_matmul.fast_matmul    : 0.35ms ⚡
 NumPy @ operator             : 19.25ms
 torch optim                  : 9.96ms
 ===============================================
-```
 
+```
+<p align="right"><small><i>(Tests were ran on Intel(R) Xeon(R) CPU @ 2.00GHz)</i></small></p>
 **That's roughly 4x faster than NumPy for large matrices and 55x faster for smaller ones!**
-<sub><i>Tests were run on Intel(R) Xeon(R) CPU @ 2.00GHz</i></sub>
+
 
 ## How It Works
 
