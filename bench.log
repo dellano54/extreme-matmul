@@ -1,0 +1,8 @@
+large matrix: 8164*2048
+extreme_matmul.fast_matmul         : 1.736374 seconds per matmul (avg over 10)
+NumPy @ operator                   : 7.139960 seconds per matmul (avg over 10)
+torch optim:                       : 1.969909 seconds per matmul (avg over 10)
+smaller matrix: 128*256
+extreme_matmul.fast_matmul         : 0.000352 seconds per matmul (avg over 10)
+NumPy @ operator                   : 0.019246 seconds per matmul (avg over 10)
+torch optim:                       : 0.009963 seconds per matmul (avg over 10)
