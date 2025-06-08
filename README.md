@@ -65,7 +65,7 @@ sudo apt install intel-oneapi-mkl-devel
 
 # Set up the environment and install
 source /opt/intel/oneapi/setvars.sh
-python setup.py install
+pip install git+https://github.com/dellano54/extreme-matmul.git
 ```
 
 ### Build from Source
