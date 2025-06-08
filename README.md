@@ -1,4 +1,5 @@
-# 🚀 Extreme MatMul
+# ⚡ extreme_matmul
+Fast matrix multiplication in Python using Intel MKL
 
 *Because sometimes NumPy just isn't fast enough.*
 
